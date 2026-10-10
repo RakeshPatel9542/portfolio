@@ -58,7 +58,7 @@ function Scene() {
 
 function Header() {
   return <header className="nav wrap">
-    <a className="brand" href="#home"><span className="brand-mark">R</span><span>Rakesh<span className="muted">.dev</span></span></a>
+    <a className="brand" href="#home"><span className="brand-mark">R</span><span>Rakesh Pokala</span></a>
     <nav><a href="#about">About</a><a href="#skills">Skills</a><a href="#work">Projects</a></nav>
     <a className="nav-cta" href="#contact">Let’s talk <ArrowUpRight size={15}/></a>
   </header>;
